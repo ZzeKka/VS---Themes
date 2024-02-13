@@ -1,0 +1,21 @@
+{
+  "name": "beach",
+  "displayName": "Beach",
+  "description": "A Beach-based theme devided in 2 section, Sand and Ocean",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Beach",
+        "uiTheme": "vs",
+        "path": "./themes/Beach-color-theme.json"
+      }
+    ]
+  }
+}
