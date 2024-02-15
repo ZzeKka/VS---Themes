@@ -2,17 +2,31 @@
 	"name": "Beach",
 	"colors": {
 		"editor.background": "#f5f5f5",
-		"editor.foreground": "#1434A4",
+		"editor.foreground": "#060561",
         "list.activeSelectionIconForeground": "#fff",
 		
-		"focusBorder": "#e6e0d9",
+		"focusBorder": "#1d1ac9",
 	    "foreground": "#010002",
 		"selection.background": "#e1bf92",
 		"errorForeground": "#c21313",
+		"widget.border": "#610ce9",
+		"widget.shadow": "#ff0000",
+		"descriptionForeground": "#75afb1",
+		"icon.foreground": "#bb9869",
+		"sash.hoverBorder": "#bb9869",
+		
+
+		"toolbar.hoverBackground": "#ff0000",
+		"toolbar.hoverOutline": "#ff0000",
+		"toolbar.activeBackground": "#ff0000",
 		
 		"button.background": "#bb9869",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#dab78d",
+
+		
+
+			
 
 
 
