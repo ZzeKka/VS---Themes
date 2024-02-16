@@ -6,25 +6,28 @@
         "list.activeSelectionIconForeground": "#fff",
 		
 		"focusBorder": "#1d1ac9",
-	    "foreground": "#010002",
+	    "foreground": "#ffffff",
 		"selection.background": "#e1bf92",
 		"errorForeground": "#c21313",
 		"widget.border": "#610ce9",
 		"widget.shadow": "#ff0000",
 		"descriptionForeground": "#75afb1",
-		"icon.foreground": "#bb9869",
+		"icon.foreground": "#2645e0",
 		"sash.hoverBorder": "#bb9869",
 		
 
-		"toolbar.hoverBackground": "#ff0000",
-		"toolbar.hoverOutline": "#ff0000",
-		"toolbar.activeBackground": "#ff0000",
+		"toolbar.hoverBackground": "#87CEEB",
+		"toolbar.hoverOutline": "#51ff00",
+		"toolbar.activeBackground": "#33ff00",
 		
-		"button.background": "#bb9869",
+		"button.background": "#bb69b4",
 		"button.foreground": "#ffffff",
 		"button.hoverBackground": "#dab78d",
 
-		
+		"dropdown.background" : "#87CEEB",
+		"dropdown.listBackground" : "#87CEEB",
+		"dropdown.border" : "#ffffff",
+		"dropdown.foreground" : "#ffffff"
 
 			
 
