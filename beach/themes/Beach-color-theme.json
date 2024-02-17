@@ -5,13 +5,13 @@
 		"editor.foreground": "#060561",
         "list.activeSelectionIconForeground": "#fff",
 		
-		"focusBorder": "#1d1ac9",
-	    "foreground": "#ffffff",
+		"focusBorder": "#120fc9",
+	    "foreground": "#5e0707",
 		"selection.background": "#e1bf92",
-		"errorForeground": "#c21313",
+		"errorForeground": "#f70808",
 		"widget.border": "#610ce9",
 		"widget.shadow": "#ff0000",
-		"descriptionForeground": "#75afb1",
+		"descriptionForeground": "#2ba9ad",
 		"icon.foreground": "#2645e0",
 		"sash.hoverBorder": "#bb9869",
 		
@@ -27,12 +27,34 @@
 		"dropdown.background" : "#87CEEB",
 		"dropdown.listBackground" : "#87CEEB",
 		"dropdown.border" : "#ffffff",
-		"dropdown.foreground" : "#ffffff"
+		"dropdown.foreground" : "#ffffff",
 
-			
+		"input.background" : "#ccd45a",
+		"input.border" : "#ccd45a",
+		"input.foreground" : "#ffffff",
+		"input.placeholderForeground" : "#ffffff",
+		"inputOption.activeBackground" : "#ccd45a",
+		"inputOption.activeBorder" : "#ccd45a",
+		"inputOption.activeForeground" : "#ffffff",
+		"inputOption.hoverBackground" : "#c25d0a",
+		"inputValidation.errorBackground": "#ff0000",
+		"inputValidation.errorForeground": "#ffffff",
+		"inputValidation.errorBorder": "#bb69b4",
+		"inputValidation.infoBackground": "#bb69b4",
+		"inputValidation.infoForeground": "#ffffff",
+		"inputValidation.infoBorder": "#bb69b4",
+		"inputValidation.warningBackground": "#bb69b4",
+		"inputValidation.warningForeground": "#ffffff",
+		"inputValidation.warningBorder": "#bb69b4",
 
+		"scrollbar.shadow": "#ffffff",
+		"scrollbarSlider.activeBackground": "#490544",
+		"scrollbarSlider.background": "#853dc9",
+		"scrollbarSlider.hoverBackground": "#163d8a",
 
-
+		"badge.foreground": "#ffffff",
+		"badge.background": "#bb69b4"
+		
 	},
 	"tokenColors": [
 		{
